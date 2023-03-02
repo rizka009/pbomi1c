@@ -16,6 +16,9 @@ public class pertemuan1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hallo world");
+        System.out.println("nama    : Rizka");
+        System.out.println("kelas   : MI 1C");
+        
     }
     
 }
